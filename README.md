@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @SRIRAM-K-S
+- 👀 I’m interested in robotics and Automation...
+- 📚 I’m currently learning Mechatronics Engineering...
+- 📫 One can reach me from my LinkedIn profile i.e., @ https://www.linkedin.com/in/sriram-k-s-40360a258...
+
+<!---
+SRIRAM-K-S/SRIRAM-K-S is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
